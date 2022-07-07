@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Chat Room Application Using React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Link
+This project is available on: [http://localhost:3000](http://localhost:3000)
+
+# Development....
 
 ## Available Scripts
 
@@ -19,6 +22,7 @@ You may also see any lint errors in the console.
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
+# Production
 ### `npm run build`
 
 Builds the app for production to the `build` folder.\
